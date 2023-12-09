@@ -9,7 +9,7 @@
 @section('main')<div class="main-content">
         <section class="section">
             <div class="section-header">
-                <h1>Adi Prasetia Dashboard</h1>
+                <h1>Adi Prasetia Dashboard toko kecil</h1>
             </div>
 
             <div class="section-body">
