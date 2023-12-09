@@ -13,6 +13,9 @@
             </div>
 
             <div class="section-body">
+                <h3>Produk</h3>
+                <li>Pisang</li>
+                <li>Nanas</li>
             </div>
         </section>
     </div>
